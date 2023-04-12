@@ -8,9 +8,7 @@
 ### **Output**
 
 -- [**Excel Report**](https://github.com/iamhasib121/book_api-load-testing-by-jmeter/blob/main/ActualTps.png)
-- - [**Pdf Report**](https://github.com/iamhasib121/book_api-load-testing-by-jmeter/blob/main/Load%20Testing%20By%20Jmeter%20Reports%20Screenshots.pdf)
-
-
-- 
+-- [**Pdf Report**](https://github.com/iamhasib121/book_api-load-testing-by-jmeter/blob/main/Load%20Testing%20By%20Jmeter%20Reports%20Screenshots.pdf)
+ 
   ![](./ActualTps.png)
   ![](./html_report.png)
