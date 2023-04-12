@@ -7,7 +7,7 @@
 
 ### **Output**
 
-- [**Excel and Pdf Report**](https://github.com/tanvirmitul/book_api-load-testing-by-jmeter/tree/main/Excel%20%26%20Word)
+- [**Excel and Pdf Report**](https://github.com/iamhasib121/book_api-load-testing-by-jmeter/blob/main/ActualTps.png)
 
 
   ![](./ActualTps.png)
